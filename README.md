@@ -13,7 +13,7 @@ Explore the cheatsheet to find commands that suit your needs. Each section conta
 <!-- CONTACT -->
 ## Contact
 
-Mohammad reza Zabihi - https://www.linkedin.com/in/mohammad-reza-zabihi/
+Mohammad reza Zabihi - [@LinkedIn](https://www.linkedin.com/in/mohammad-reza-zabihi/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
