@@ -4,7 +4,7 @@ Welcome to the Linux Command Cheatsheet repository! This cheatsheet provides a q
 
 ## Categories
 
-- [Install R within a Conda environment](#Install R within a Conda environment).
+1. [Install R within a Conda environment](#Install R within a Conda environment).
 
 ## Usage
 
