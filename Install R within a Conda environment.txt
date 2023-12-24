@@ -1,0 +1,16 @@
+cp /share/installation/Miniconda3-latest-Linux-x86_64.sh /home
+nano ~/.bashrc
+
+change manually root to home
+ctrl + o --> save
+ctrl + x --> exite nano
+
+source ~/.bashrc --> update
+
+
+conda create -n my_r_environment r-base
+conda activate my_r_environment
+conda install -c r r-base
+R
+
+
